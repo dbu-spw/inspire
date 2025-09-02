@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 gml.xsd" gml:id="CodeList_SubstanceDangereuseValue">
+	<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_SubstanceDangereuseValue.xml">CodeList_SubstanceDangereuseValue</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Dictionary gml:id="SubstanceDangereuseValue">
+			<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_SubstanceDangereuseValue.xml">SubstanceDangereuseValue</gml:identifier>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_1">
+					<gml:description>Nitrate d'ammonium</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_2">
+					<gml:description>Chlore</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_3">
+					<gml:description>Fluor</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_4">
+					<gml:description>Hydrogène</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_5">
+					<gml:description>Polychlorodibenzofurane</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SubstanceDangereuseValue_6">
+					<gml:description>...</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+		</gml:Dictionary>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

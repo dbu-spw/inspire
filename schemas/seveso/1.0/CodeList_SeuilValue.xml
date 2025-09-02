@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 gml.xsd" gml:id="CodeList_SeuilValue">
+	<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_SeuilValue.xml">CodeList_SeuilValue</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Dictionary gml:id="SeuilValue">
+			<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_SeuilValue.xml">SeuilValue</gml:identifier>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SeuilValue_1">
+					<gml:description>Haut</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="SeuilValue_2">
+					<gml:description>Bas</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+		</gml:Dictionary>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

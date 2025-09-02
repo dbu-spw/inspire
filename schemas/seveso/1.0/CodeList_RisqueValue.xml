@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gml:Dictionary xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml/3.2 gml.xsd" gml:id="CodeList_RisqueValue">
+	<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_RisqueValue.xml">CodeList_RisqueValue</gml:identifier>
+	<gml:dictionaryEntry>
+		<gml:Dictionary gml:id="RisqueValue">
+			<gml:identifier codeSpace="http://geoservices.wallonie.be/geotraitement/spwdatadownload/inspire/schema/seveso/1.0/CodeList_RisqueValue.xml">RisqueValue</gml:identifier>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="RisqueValue_1">
+					<gml:description>Environnemental</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="RisqueValue_2">
+					<gml:description>Humain</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="RisqueValue_3">
+					<gml:description>Surpression</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+			<gml:dictionaryEntry>
+				<gml:Definition gml:id="RisqueValue_4">
+					<gml:description>Thermique</gml:description>
+				</gml:Definition>
+			</gml:dictionaryEntry>
+		</gml:Dictionary>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
